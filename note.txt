@@ -1,0 +1,3 @@
+@ManyToOne = create a column table if you make a relation while @OnetoMany do otherwise
+i can post by params id
+use path to shorten the import like @....
